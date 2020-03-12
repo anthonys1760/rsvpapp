@@ -1,6 +1,6 @@
 # RSVP App
 
-![RSVP App](rsvp.jpg)
+![RSVP App](rsvp.png)
 
 View Live Site Here: https://rsvpapp-lgq94gija.now.sh/
 
